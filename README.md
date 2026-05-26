@@ -1,6 +1,4 @@
-Here’s a professional **GitHub README.md** draft tailored for your uploaded dataset project:
-
-global-product -sales-cleaned -transformed
+# GLOBAL PRODUCT SALES 
 
 # 🧹 Data Cleaning & Transformation  
 
